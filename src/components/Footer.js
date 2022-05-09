@@ -115,7 +115,7 @@ const Footer = () => {
       <Right>
         <Title>Contact Us</Title>
         <ContactItem>
-          <Room style={{ marginRight: "10px" }} /> bashundhara, Dhaka
+          <Room style={{ marginRight: "10px" }} /> Bashundhara, Dhaka
         </ContactItem>
         <ContactItem>
           <Phone style={{ marginRight: "10px" }} /> +88018594985094
